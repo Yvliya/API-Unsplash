@@ -26,8 +26,9 @@ Este é um aplicativo mobile simples desenvolvido no **Android Studio** que util
 ![Tela inicial](https://github.com/user-attachments/assets/c673e2c4-aa87-4995-9873-d9695b352ee6)
 
 **Após buscar por imagens:**  
-![Tela com imagens 1](https://github.com/user-attachments/assets/02c8f22f-f14e-4892-b63c-d69c474ce4ae)  
-![Tela com imagens 2](https://github.com/user-attachments/assets/308582bb-5ce8-4ff3-846f-66cfdd4b8de1)  
+
+| ![Tela com imagens 1](https://github.com/user-attachments/assets/02c8f22f-f14e-4892-b63c-d69c474ce4ae) | ![Tela com imagens 2](https://github.com/user-attachments/assets/308582bb-5ce8-4ff3-846f-66cfdd4b8de1) |  
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|  
 
 ---
 
